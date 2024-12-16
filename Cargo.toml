@@ -1,0 +1,9 @@
+[package]
+name = "geojson_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+plotters = "0.3.7"
+geojson = "0.24.1"
+geo-types = "0.7.14"
